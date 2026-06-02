@@ -13,6 +13,7 @@ En el mismo, por cada *sprint* se detalla el log de ejercicios en los que se ha 
 ✅ Resueltos los ejercicios de práctica obligatoria de la *"Unidad 01"* referentes a [Markdown](https://www.markdownguide.org/basic-syntax/).  
 ✅ Resueltos los ejercicios de práctica obligatoria de la *"Unidad 02"* referentes a Introducción al lenguaje Python.  
 > Materiales de apoyo en linea sobre [manejo de cadenas](https://docs.python.org/2.5/lib/string-methods.html) y [arrays de datos](https://www.w3schools.com/python/python_ref_list.asp).  
+
 ✅ Resueltos los ejercicios extra de la *"Unidad 03"* referentes a bucles y estructuras de control.  
 ♦️ Actualmente revisando contenidos pendientes...  
 

@@ -18,10 +18,10 @@ En el mismo, por cada *sprint* se detalla el log de ejercicios en los que se ha 
 ✅ Resueltos los ejercicios extra de la *"Unidad 03"* referentes a bucles y estructuras de control.  
 ♦️ Actualmente revisando contenidos pendientes...  
 
-### 💎MÓDULO 1 - Python + IA Generativa  
+### MÓDULO 1 - Python + IA Generativa  
 
-#### [Sprint 01 - Python Basics (unidades didácticas 01 a 03)](https://github.com/hglebredo/bootcamp_AI_Engineering/tree/main/sprint_01)  
+#### ➡️ [Sprint 01 - Python Basics (unidades didácticas 01 a 03)](https://github.com/hglebredo/bootcamp_AI_Engineering/tree/main/sprint_01)  
 
-[Unidad 01 - Introducción a Herramientas](https://github.com/hglebredo/bootcamp_AI_Engineering/tree/main/sprint_01/unit_01)  
+> [Unidad 01 - Introducción a Herramientas](https://github.com/hglebredo/bootcamp_AI_Engineering/tree/main/sprint_01/unit_01)  
 [Unidad 02 - Python Basics I](https://github.com/hglebredo/bootcamp_AI_Engineering/tree/main/sprint_01/unit_02)  
 [Unidad 03 - Bucles como estructuras de control](https://github.com/hglebredo/bootcamp_AI_Engineering/tree/main/sprint_01/unit_03)  

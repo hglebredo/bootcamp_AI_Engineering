@@ -8,22 +8,31 @@ Este repositorio está organizado siguiendo la filosofía de ***"sprints"*** que
 
 En el mismo, por cada *sprint* se detalla el log de ejercicios en los que se ha trabajado, para mostrar rápidamente aquellos cumplimentados ya finalizados y/o aquellos que están en marcha, todavía en progreso para su finalización.
 
+
+
 ## Log de cambios`:`
 
-[archivados](##Archivo del los de cambios)
+ve a [cambios archivados](#archivo-del-log-de-cambios) para ver anteriores.
 
-✅ **[08/06]** - Resuelta y entregada la [práctica obligatoria](https://github.com/hglebredo/bootcamp_AI_Engineering/blob/main/Sprint_02/Unidad_01_Python_II_Colecciones_Funciones/04_Practica_Obligatoria/18_Practica_Obligatoria_Colecciones_Funciones.ipynb) de la *"Unidad 1 - Python II Colecc. Func."*, también algunos de los ejercicios de la unidad. 
-👉 **[09/06]** He retocado el final del código del ejercicio 10 para garantizar la salida del programa.  
-♦️ **[09/06]** - Actualmente revisando contenidos pendientes...  
+|<div align= center>status</div>|date|description|
+|---------|-----|-----------|
+|<div align= center>✅</div>| **[08/06]** |- Resuelta y entregada la [práctica obligatoria (Sprint 2)](https://github.com/hglebredo/bootcamp_AI_Engineering/blob/main/Sprint_02/Unidad_01_Python_II_Colecciones_Funciones/04_Practica_Obligatoria/18_Practica_Obligatoria_Colecciones_Funciones.ipynb) de la *"Unidad 1 - Python Basics II Colecc. Func."*, también algunos de los ejercicios de la unidad.|
+|<div align= center>✅</div>| **[11/06]** | - Resuelta y entregada la [práctica obligatoria (Sprint 2)](https://github.com/hglebredo/bootcamp_AI_Engineering/blob/main/Sprint_02/Unidad_02_Python_III_Modulos_OOP/04_Practica_Obligatoria/18_Practica_Obligatoria_OOP.ipynb) de la *"Unidad 2 - Python Basics III Módulos y OOP "*.|  
+|<div align= center>👉</div> | **[11/06]** | - Actualmente revisando contenidos pendientes sprint 2 y ruta transversal...  
 
-### MÓDULO 1 - Python + IA Generativa  
+## Contenidos de unidades didácticas
 
-#### ➡️ [Sprint 01 - Python Basics (unidades didácticas 01 a 03)](https://github.com/hglebredo/bootcamp_AI_Engineering/tree/main/sprint_01)  
+### MÓDULO 1 - 🐍Python + 🧠IA Generativa  
 
-> [Unidad 01 - Introducción a Herramientas](https://github.com/hglebredo/bootcamp_AI_Engineering/tree/main/sprint_01/unit_01)  
-[Unidad 02 - Python Basics I](https://github.com/hglebredo/bootcamp_AI_Engineering/tree/main/sprint_01/unit_02)  
-[Unidad 03 - Bucles como estructuras de control](https://github.com/hglebredo/bootcamp_AI_Engineering/tree/main/sprint_01/unit_03)  
+#### ➡️ Sprint 01 - Python Basics (unidades didácticas 01 a 03)
 
+* **Unidad 01** - [Introducción a Herramientas](https://github.com/hglebredo/bootcamp_AI_Engineering/tree/main/sprint_01/unit_01)  
+* **Unidad 02** - [Python Basics I](https://github.com/hglebredo/bootcamp_AI_Engineering/tree/main/sprint_01/unit_02)  
+* **Unidad 03** - [Bucles como estructuras de control](https://github.com/hglebredo/bootcamp_AI_Engineering/tree/main/sprint_01/unit_03)  
+
+#### ➡️ Sprint 02 - Python Basics II y III (unidades didácticas 01 y 02)  
+* **Unidad 01** - [Python Basics II - Colecciones y Funciones](https://github.com/hglebredo/bootcamp_AI_Engineering/tree/main/Sprint_02/Unidad_01_Python_II_Colecciones_Funciones)  
+* **Unidad 02** - [Python Basics III - Módulos y OOP](https://github.com/hglebredo/bootcamp_AI_Engineering/tree/main/Sprint_02/Unidad_02_Python_III_Modulos_OOP)  
 
 ## Archivo del log de cambios
 
